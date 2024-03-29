@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1359</width>
+    <height>708</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>1359</width>
+    <height>708</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <property name="iconSize">
+   <size>
+    <width>24</width>
+    <height>24</height>
+   </size>
+  </property>
+  <property name="pixmap" stdset="0">
+   <string/>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>40</y>
+      <width>481</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 127);
+font: 75 25pt &quot;Segoe Print&quot;;</string>
+    </property>
+    <property name="text">
+     <string>SpaceX –  your own cinema</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>-10</x>
+      <y>-10</y>
+      <width>1600</width>
+      <height>1200</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>1347915322-411543-0198053_www.nevseoboi.com.ua.jpg</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="matylda">
+    <property name="geometry">
+     <rect>
+      <x>960</x>
+      <y>450</y>
+      <width>151</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>530</x>
+      <y>130</y>
+      <width>461</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 127);
+font: 25pt &quot;Impact&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Силачка До Бон Сун</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>320</y>
+      <width>47</width>
+      <height>13</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>150</y>
+      <width>341</width>
+      <height>421</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>strongBig.jpg</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>200</y>
+      <width>651</width>
+      <height>321</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 127);
+font: 13pt &quot;Impact&quot;;</string>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;До Бон Сун дуже сильна дівчина. Вона має все, щоб стати атлетом світового&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;рівня. Незважаючи на фізичні дані, перед нами звичайнісіньке дівчисько,&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;якому не чужі прекрасні почуття. Наприклад, головна героїня закохана у Кук-ту.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;Цей хлопчина здається справжнім душнилою, та й більш того, він дуже і дуже&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;прискіпливий до всього, що тільки трапляється йому під руку. Нещасна Бон Сун&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;намагається всіляко підлаштуватися під цього хлопця, бажаючи бути його&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;ідеальною дівчиною. Вона намагається за всієї своєї фізичної могутності здаватися&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;милою, чарівною і витонченою. У результаті дівчина отримує у своє розпорядження&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;украй складну роботу:вона стає охоронцем для багатих бізнесменів із сімейства&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;Мін Хек. Спадкоємець Ан - повна протилежність Кук Ту.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_7">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>530</y>
+      <width>441</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 127);
+font: 25pt &quot;Impact&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Дивитись трейлер в HD якості:</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="vert">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 127);
+font: 15pt &quot;Impact&quot;;</string>
+    </property>
+    <property name="text">
+     <string>⭠</string>
+    </property>
+   </widget>
+   <zorder>label_5</zorder>
+   <zorder>label_2</zorder>
+   <zorder>matylda</zorder>
+   <zorder>label</zorder>
+   <zorder>label_4</zorder>
+   <zorder>label_3</zorder>
+   <zorder>label_6</zorder>
+   <zorder>label_7</zorder>
+   <zorder>vert</zorder>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

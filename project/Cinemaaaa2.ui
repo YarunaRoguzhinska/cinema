@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1409</width>
+    <height>702</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <property name="pixmap" stdset="0">
+   <string/>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>70</y>
+      <width>141</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>16777215</width>
+      <height>41</height>
+     </size>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt;&quot;&gt;Що шукаєте?&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>490</x>
+      <y>10</y>
+      <width>481</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 127);
+font: 75 25pt &quot;Segoe Print&quot;;</string>
+    </property>
+    <property name="text">
+     <string>SpaceX –  your own cinema</string>
+    </property>
+   </widget>
+   <widget class="Line" name="line">
+    <property name="geometry">
+     <rect>
+      <x>1150</x>
+      <y>0</y>
+      <width>20</width>
+      <height>121</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(170, 0, 0);</string>
+    </property>
+    <property name="orientation">
+     <enum>Qt::Vertical</enum>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>-10</x>
+      <y>-70</y>
+      <width>1600</width>
+      <height>1200</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>1347915322-411543-0198053_www.nevseoboi.com.ua.jpg</pixmap>
+    </property>
+   </widget>
+   <widget class="QTabWidget" name="tabWidget">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>100</y>
+      <width>961</width>
+      <height>731</height>
+     </rect>
+    </property>
+    <property name="currentIndex">
+     <number>0</number>
+    </property>
+    <widget class="QWidget" name="tab">
+     <attribute name="title">
+      <string>Фільми</string>
+     </attribute>
+     <widget class="QLabel" name="label_6">
+      <property name="geometry">
+       <rect>
+        <x>-210</x>
+        <y>0</y>
+        <width>1171</width>
+        <height>811</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="pixmap">
+       <pixmap>1347915322-411543-0198053_www.nevseoboi.com.ua.jpg</pixmap>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_11">
+      <property name="geometry">
+       <rect>
+        <x>90</x>
+        <y>30</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="pixmap">
+       <pixmap>marvel (1).jpg</pixmap>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_12">
+      <property name="geometry">
+       <rect>
+        <x>90</x>
+        <y>330</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="pixmap">
+       <pixmap>завантаження.jpg</pixmap>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_13">
+      <property name="geometry">
+       <rect>
+        <x>370</x>
+        <y>30</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="pixmap">
+       <pixmap>Аватар_(укр._постер).jpg</pixmap>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_14">
+      <property name="geometry">
+       <rect>
+        <x>370</x>
+        <y>330</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="pixmap">
+       <pixmap>BARBIE_vend3.jpg</pixmap>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_15">
+      <property name="geometry">
+       <rect>
+        <x>670</x>
+        <y>330</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="pixmap">
+       <pixmap>../Users/nexti/OneDrive/Робочий стіл/movie/02e98423729108eb5c738d98f087a4a3.jpeg</pixmap>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_16">
+      <property name="geometry">
+       <rect>
+        <x>670</x>
+        <y>30</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="pixmap">
+       <pixmap>vend.jpg</pixmap>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_30">
+      <property name="geometry">
+       <rect>
+        <x>60</x>
+        <y>250</y>
+        <width>221</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Месники. Війна нескінченності</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_35">
+      <property name="geometry">
+       <rect>
+        <x>420</x>
+        <y>250</y>
+        <width>51</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Аватар</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_36">
+      <property name="geometry">
+       <rect>
+        <x>670</x>
+        <y>250</y>
+        <width>151</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Життя і мета собаки</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_37">
+      <property name="geometry">
+       <rect>
+        <x>50</x>
+        <y>550</y>
+        <width>251</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Гаррі Поттер і філософський камінь</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_38">
+      <property name="geometry">
+       <rect>
+        <x>420</x>
+        <y>550</y>
+        <width>41</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Барбі</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_39">
+      <property name="geometry">
+       <rect>
+        <x>720</x>
+        <y>550</y>
+        <width>41</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Дюна</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="marvel">
+      <property name="geometry">
+       <rect>
+        <x>90</x>
+        <y>30</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>marvelSmall.jpg</normaloff>marvelSmall.jpg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="avatar">
+      <property name="geometry">
+       <rect>
+        <x>370</x>
+        <y>30</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>avatarSmall.jpg</normaloff>avatarSmall.jpg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="sobaka">
+      <property name="geometry">
+       <rect>
+        <x>670</x>
+        <y>30</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>sobakaSmall.jpg</normaloff>sobakaSmall.jpg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="duna">
+      <property name="geometry">
+       <rect>
+        <x>670</x>
+        <y>330</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>dunaSmall.jpeg</normaloff>dunaSmall.jpeg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="barbie">
+      <property name="geometry">
+       <rect>
+        <x>370</x>
+        <y>330</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>barbieSmall.jpg</normaloff>barbieSmall.jpg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="potter">
+      <property name="geometry">
+       <rect>
+        <x>90</x>
+        <y>330</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>harrySmall.jpg</normaloff>harrySmall.jpg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_3">
+     <attribute name="title">
+      <string>Мультфільми</string>
+     </attribute>
+     <widget class="QLabel" name="label_17">
+      <property name="geometry">
+       <rect>
+        <x>-210</x>
+        <y>0</y>
+        <width>1171</width>
+        <height>811</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="pixmap">
+       <pixmap>1347915322-411543-0198053_www.nevseoboi.com.ua.jpg</pixmap>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_40">
+      <property name="geometry">
+       <rect>
+        <x>110</x>
+        <y>250</y>
+        <width>101</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Май літл поні</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_41">
+      <property name="geometry">
+       <rect>
+        <x>380</x>
+        <y>250</y>
+        <width>141</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Черепашки-ніндзя</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_42">
+      <property name="geometry">
+       <rect>
+        <x>670</x>
+        <y>250</y>
+        <width>161</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Таємниці Гравіті Фолз</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_43">
+      <property name="geometry">
+       <rect>
+        <x>70</x>
+        <y>550</y>
+        <width>191</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Губка Боб Квадратні Штани</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_45">
+      <property name="geometry">
+       <rect>
+        <x>390</x>
+        <y>550</y>
+        <width>111</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Кунг-фу панда</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_44">
+      <property name="geometry">
+       <rect>
+        <x>650</x>
+        <y>550</y>
+        <width>201</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Клуб Вінкс: Школа чарівниць</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pony">
+      <property name="geometry">
+       <rect>
+        <x>90</x>
+        <y>30</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>ponySmall.jpg</normaloff>ponySmall.jpg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="turtles">
+      <property name="geometry">
+       <rect>
+        <x>370</x>
+        <y>30</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>turtlesSmall.jpg</normaloff>turtlesSmall.jpg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="gravity">
+      <property name="geometry">
+       <rect>
+        <x>670</x>
+        <y>30</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>gravitySmall.jpg</normaloff>gravitySmall.jpg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="bob">
+      <property name="geometry">
+       <rect>
+        <x>90</x>
+        <y>330</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>bobSmall.jpg</normaloff>bobSmall.jpg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="panda">
+      <property name="geometry">
+       <rect>
+        <x>370</x>
+        <y>330</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>pandaSmall.jpg</normaloff>pandaSmall.jpg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="winx">
+      <property name="geometry">
+       <rect>
+        <x>670</x>
+        <y>330</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>winxSmall.jpg</normaloff>winxSmall.jpg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_2">
+     <attribute name="title">
+      <string>Серіали</string>
+     </attribute>
+     <widget class="QLabel" name="label_7">
+      <property name="geometry">
+       <rect>
+        <x>-210</x>
+        <y>0</y>
+        <width>1171</width>
+        <height>811</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 75 8pt &quot;Segoe Print&quot;;</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="pixmap">
+       <pixmap>1347915322-411543-0198053_www.nevseoboi.com.ua.jpg</pixmap>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_46">
+      <property name="geometry">
+       <rect>
+        <x>130</x>
+        <y>250</y>
+        <width>71</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Венздей</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_49">
+      <property name="geometry">
+       <rect>
+        <x>670</x>
+        <y>250</y>
+        <width>151</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Академія амбрелла 2</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_48">
+      <property name="geometry">
+       <rect>
+        <x>650</x>
+        <y>550</y>
+        <width>201</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Величне століття: Роксолана</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_50">
+      <property name="geometry">
+       <rect>
+        <x>420</x>
+        <y>550</y>
+        <width>61</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Шерлок</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_51">
+      <property name="geometry">
+       <rect>
+        <x>380</x>
+        <y>250</y>
+        <width>121</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Справжня краса</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_47">
+      <property name="geometry">
+       <rect>
+        <x>100</x>
+        <y>550</y>
+        <width>141</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 127);
+font: 12pt &quot;Impact&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Силачка До Бон Сун</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="wednesday">
+      <property name="geometry">
+       <rect>
+        <x>90</x>
+        <y>30</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>wednesdaySmall.jpg</normaloff>wednesdaySmall.jpg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pretty">
+      <property name="geometry">
+       <rect>
+        <x>370</x>
+        <y>30</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>prettySmall.jpg</normaloff>prettySmall.jpg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="umbrella">
+      <property name="geometry">
+       <rect>
+        <x>670</x>
+        <y>30</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>umbrellaSmall.jpg</normaloff>umbrellaSmall.jpg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="strong">
+      <property name="geometry">
+       <rect>
+        <x>90</x>
+        <y>330</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>strongSmall.jpg</normaloff>strongSmall.jpg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="sherlock">
+      <property name="geometry">
+       <rect>
+        <x>370</x>
+        <y>330</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>sherlokSmall.jpg</normaloff>sherlokSmall.jpg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="roxolana">
+      <property name="geometry">
+       <rect>
+        <x>670</x>
+        <y>330</y>
+        <width>151</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>huremSmall.jpg</normaloff>huremSmall.jpg</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>150</width>
+        <height>213</height>
+       </size>
+      </property>
+     </widget>
+    </widget>
+   </widget>
+   <widget class="Line" name="line_4">
+    <property name="geometry">
+     <rect>
+      <x>190</x>
+      <y>0</y>
+      <width>21</width>
+      <height>181</height>
+     </rect>
+    </property>
+    <property name="orientation">
+     <enum>Qt::Vertical</enum>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>1150</x>
+      <y>180</y>
+      <width>211</width>
+      <height>191</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>catspace (3).png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>1010</x>
+      <y>50</y>
+      <width>291</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../Users/nexti/OneDrive/Робочий стіл/movie/еееее.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_8">
+    <property name="geometry">
+     <rect>
+      <x>1180</x>
+      <y>540</y>
+      <width>141</width>
+      <height>171</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>photo_5408837249010883265_x-removebg-preview.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_10">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>201</width>
+      <height>721</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(57, 0, 127);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_9">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>190</y>
+      <width>161</width>
+      <height>151</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_32">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>210</y>
+      <width>101</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>16777215</width>
+      <height>41</height>
+     </size>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(57, 0, 127);
+font: 10pt &quot;Impact&quot;;</string>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt;&quot;&gt;ТУТ МОЖЕ&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_33">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>250</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>16777215</width>
+      <height>41</height>
+     </size>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(57, 0, 127);
+font: 10pt &quot;Impact&quot;;</string>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt;&quot;&gt;БУТИ ВАША&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_34">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>290</y>
+      <width>121</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>16777215</width>
+      <height>41</height>
+     </size>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(57, 0, 127);
+font: 10pt &quot;Impact&quot;;</string>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:24pt;&quot;&gt;РЕКЛАМА&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <zorder>label_5</zorder>
+   <zorder>label</zorder>
+   <zorder>label_2</zorder>
+   <zorder>line</zorder>
+   <zorder>line_4</zorder>
+   <zorder>tabWidget</zorder>
+   <zorder>label_3</zorder>
+   <zorder>label_4</zorder>
+   <zorder>label_8</zorder>
+   <zorder>label_10</zorder>
+   <zorder>label_9</zorder>
+   <zorder>label_32</zorder>
+   <zorder>label_33</zorder>
+   <zorder>label_34</zorder>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

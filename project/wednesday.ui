@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1359</width>
+    <height>708</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>1359</width>
+    <height>708</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <property name="iconSize">
+   <size>
+    <width>24</width>
+    <height>24</height>
+   </size>
+  </property>
+  <property name="pixmap" stdset="0">
+   <string/>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>40</y>
+      <width>481</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 127);
+font: 75 25pt &quot;Segoe Print&quot;;</string>
+    </property>
+    <property name="text">
+     <string>SpaceX –  your own cinema</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>-10</x>
+      <y>-10</y>
+      <width>1600</width>
+      <height>1200</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>1347915322-411543-0198053_www.nevseoboi.com.ua.jpg</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="matylda">
+    <property name="geometry">
+     <rect>
+      <x>960</x>
+      <y>450</y>
+      <width>151</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>530</x>
+      <y>130</y>
+      <width>461</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 127);
+font: 25pt &quot;Impact&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Венздей</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>320</y>
+      <width>47</width>
+      <height>13</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>150</y>
+      <width>341</width>
+      <height>421</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>wednesdayBig.jpg</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>530</x>
+      <y>210</y>
+      <width>671</width>
+      <height>251</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 127);
+font: 13pt &quot;Impact&quot;;</string>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;У центрі сюжету знаходиться похмура та небагатослівна Венздей — старша&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;дочка ексцентричної родини Аддамс, яка через свої шокуючі витівки поміняла&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;вісім шкіл за п'ять років. Після чергового скандального інциденту вона&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;змушена перевестися до «Невермора» — академії для ізгоїв, яку колись&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;відвідували її батьки. Навчальним закладом залізною хваткою керує&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;Ларисса Вімс — заклятий ворог її матері Мортіші. У «Неверморі» дівчинка розвиває&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;свої екстрасенсорні здібності, що нещодавно відкрилися, і береться зупинити&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Impact,sans-serif';&quot;&gt;монстра, який полює на людей в окрузі...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_7">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>530</y>
+      <width>441</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 127);
+font: 25pt &quot;Impact&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Дивитись трейлер в HD якості:</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="vert">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 127);
+font: 15pt &quot;Impact&quot;;</string>
+    </property>
+    <property name="text">
+     <string>⭠</string>
+    </property>
+   </widget>
+   <zorder>label_5</zorder>
+   <zorder>label_2</zorder>
+   <zorder>matylda</zorder>
+   <zorder>label</zorder>
+   <zorder>label_4</zorder>
+   <zorder>label_3</zorder>
+   <zorder>label_6</zorder>
+   <zorder>label_7</zorder>
+   <zorder>vert</zorder>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
